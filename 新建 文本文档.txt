@@ -1,0 +1,8 @@
+•	熟练使用Spring、SpringBoot、Mybatis等开发框架；
+•	熟练使用Oracle、MySQL等数据库的设计开发；
+•	熟练使用 Maven 等多模块项目的构建以及 Git 版本控制工具；
+•	熟练使用 Intellij IDEA 和 Eclipse 等开发工具；
+•	掌握Redis常见缓存问题及解决方案；
+•	熟悉java多线程开发，包括线程池、同步机制等关键概念；
+•	熟悉RabbitMQ、ElasticSearch等常用中间件的使用方式；
+•	熟悉常见设计模式，例如策略模式、工厂模式、责任链等并运用开发；
